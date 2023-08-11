@@ -1,1 +1,10 @@
 Apontamentos
+> Aulas às segundas, quartas e sextas
+> Atendimento, às segundas e quartas, com o professor, precisa combinar antes ( https://chat.ufsc.br/direct/martin.vigil )
+> Monitor: Mateus Joaquim, Segunda/Terça/Quarta/Quinta 18h30 - 20h30 - no Discord: https://discord.gg/FAywecf5p8
+> Cronograma: 
+    Trabalho1, Algoritmos de ordenação, 14 a 26 de agosto, 
+    Trabalho2, Estruturas lineares, 28 de agosto a 9 de setembro
+    Trabalho3, Árvore Binária Balanceada, 11 de setembro a 7 de outubro
+    Trabalho4, abela de Espalhamento, 09 a 25 de outubro
+    Trabalho5, 27 de novembro a 09 de dezembro (NÃO HAVERÁ TRABALHO 5)
